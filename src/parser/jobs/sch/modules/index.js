@@ -2,6 +2,7 @@ import {Aetherflow} from './Aetherflow'
 import {CooldownDowntime} from './CooldownDowntime'
 import DoTs from './DoTs'
 import {FaerieGauge} from './FaerieGauge'
+import {InefficientHealing} from './InefficientHealing'
 import Interrupts from './Interrupts'
 import Overheal from './Overheal'
 import Pets from './Pets'
@@ -13,6 +14,7 @@ export default [
 	Aetherflow,
 	CooldownDowntime,
 	DoTs,
+	InefficientHealing,
 	Interrupts,
 	FaerieGauge,
 	Overheal,
